@@ -6,7 +6,7 @@ Welcome to my personal repository where I document my journey of reading books r
 
 Here's a list of the books I've been reading and studying:
 
-1. **"[Hands-On Machine Learning Exercises](https://github.com/moatasem75291/LinkedIn-Articles/tree/main/Books/Hands%20on%20Machie%20Learning/Hands%20on%20Machie%20Learning)"** by Aurélien Géron.
+1. **"Another repo: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://github.com/moatasem75291/LinkedIn-Articles/tree/main/Books/Hands%20on%20Machie%20Learning/Hands%20on%20Machie%20Learning)"** by Aurélien Géron.
 2. **"Data Structures and Algorithms in Python"** by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser.
 3. **"Machine Learning with PyTorch and Scikit-Learn"** by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili
 
