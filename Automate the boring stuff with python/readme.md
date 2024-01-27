@@ -4,7 +4,7 @@ Welcome to the learning repository for "Automate the Boring Stuff with Python" b
 
 ## Chapters 📚
 
-1. [Chapter 1: Python Basics](/Chapter_1)
+1. [Chapter 1: Python Basics](/Automate_the_Boring_Stuff_with_Python/Chapter_1)
 
    - 📜 [File](/Chapter_1/yourFirstProgram.py)
 
