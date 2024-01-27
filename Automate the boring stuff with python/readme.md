@@ -4,32 +4,32 @@ Welcome to the learning repository for "Automate the Boring Stuff with Python" b
 
 ## Chapters 📚
 
-1. [Chapter 1: Python Basics](/AutomateTheBoringStuffWithPython/Chapter_1)
+1. [Chapter 1: Python Basics]
 
-   - 📜 [File](/Chapter_1/yourFirstProgram.py)
+   - 📜 [File]
 
-2. [Chapter 2: Flow Control](/Chapter_2)
+2. [Chapter 2: Flow Control]
 
-   - 🖥️ [Code](/Chapter_2/Code)
-   - 🧠 [Notes](/Chapter_2/Notes/mindMapForChapterTwo.jpg) (Mind Map)
+   - 🖥️ [Code]
+   - 🧠 [Notes] (Mind Map)
 
-3. [Chapter 3: Functions](/Chapter_3)
+3. [Chapter 3: Functions]
 
-   - 🖥️ [Code](/Chapter_3/Code)
-   - 🧠 [Notes](/Chapter_3/Notes/mindMapForChapterThree.jpg) (Mind Map)
-   - 🚀 [Practice Projects](/Chapter_3/Code/PracticeProject)
+   - 🖥️ [Code]
+   - 🧠 [Notes] (Mind Map)
+   - 🚀 [Practice Projects]
 
-4. [Chapter 4: Lists](/Chapter_4)
+4. [Chapter 4: Lists]
 
-   - 🖥️ [Code](/Chapter_4/Code)
-   - 🧠 [Notes](/Chapter_4/Notes/mindMapForChapterFour.jpg) (Mind Map)
-   - 🚀 [Practice Projects](/Chapter_4/Code/PracticeProjects)
+   - 🖥️ [Code]
+   - 🧠 [Notes] (Mind Map)
+   - 🚀 [Practice Projects]
 
-5. [Chapter 5: Dictionaries and Structuring Data](/Chapter_5)
+5. [Chapter 5: Dictionaries and Structuring Data]
 
-   - 🖥️ [Code](/Chapter_5/Code)
-   - 🧠 [Notes](/Chapter_5/Notes/mindMapForChapterFive.jpg) (Mind Map)
-   - 🚀 [Practice Projects](/Chapter_5/Code/PracticeProjects)
+   - 🖥️ [Code]
+   - 🧠 [Notes] (Mind Map)
+   - 🚀 [Practice Projects]
 
 ## Practice Projects 🚀
 
