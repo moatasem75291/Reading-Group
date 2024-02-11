@@ -16,24 +16,34 @@ Welcome to the learning repository for "Automate the Boring Stuff with Python" b
 3. Chapter 3: Functions
 
    - 🖥️ Code
+      - 🚀 Practice Projects
    - 🧠 Notes (Mind Map)
-   - 🚀 Practice Projects
 
 4. Chapter 4: Lists
 
    - 🖥️ Code
+      - 🚀 Practice Projects
    - 🧠 Notes (Mind Map)
-   - 🚀 Practice Projects
+   
 
 5. Chapter 5: Dictionaries and Structuring Data
 
    - 🖥️ Code
+      - 🚀 Practice Projects
    - 🧠 Notes (Mind Map)
-   - 🚀 Practice Projects
+   
+  
+6. Chapter 6: Manipulating Strings
+
+   - 🖥️ Code
+      - 🚀 Practice Projects
+      - 🧑‍💻 Chapter Projects
+   - 🧠 Notes (Mind Map)
+   
 
 ## Practice Projects 🚀
 
-Each chapter includes a dedicated folder for Practice Projects. Explore these folders for hands-on coding exercises.
+Each chapter includes a dedicated folder for Practice Projects. You can explore these folders for hands-on coding exercises.
 
 Feel free to contribute, provide feedback, or report issues!
 
