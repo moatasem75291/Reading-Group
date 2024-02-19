@@ -1,0 +1,25 @@
+Review of Regex Symbols:
+
+    - The ? matches zero or one of the preceding group.
+    - The * matches zero or more of the preceding group.
+    - The + matches one or more of the preceding group.
+    - The {n} matches exactly n of the preceding group.
+    - The {n,} matches n or more of the preceding group.
+    - The {,m} matches 0 to m of the preceding group.
+    - The {n,m} matches at least n and at most m of the preceding group.
+    - {n,m}? or *? or +? performs a non-greedy match of the preceding group.
+    - ^spam means the string must begin with spam.
+    - spam$ means the string must end with spam.
+    - The . matches any character, except newline characters.
+    - \d, \w, and \s match a digit, word, or space character, respectively.
+    - \D, \W, and \S match anything except a digit, word, or space character, respectively.
+    - [abc] matches any character between the brackets (such as a, b, or c).
+    - [^abc] matches any character that isn’t between the brackets.
+    - [a-z] matches any character between a and z.
+    - [A-Z] matches any character between A and Z.
+    - [0-9] matches any digit between 0 and 9.
+    - [a-zA-Z0-9] matches any character between a and z, A and Z, or 0 and 9.
+    - The ^ at the start of a character class creates a negative character class.
+    - The | pipe matches either the expression before or after it.
+    - ( ) is used to group strings.
+    - \t, \n, and \r match tab, newline, and carriage return characters.
