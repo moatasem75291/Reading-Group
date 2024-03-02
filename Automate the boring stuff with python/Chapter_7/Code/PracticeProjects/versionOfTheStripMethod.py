@@ -37,6 +37,5 @@ print(version_of_strip("   Hello, World!   "))  # Expected output: "Hello, World
 print(
     version_of_strip("   Hello, World!   ", "Hd!")
 )  # Expected output: "   Hello, World   "
-print(version_of_strip("   Hello, World!   ", "Hd! "))  # Expected output: "ello, Worl"
-print(version_of_strip("   Hello, World!   ", "Hd! W"))  # Expected output: "ello, Worl"
-print(version_of_strip("Hello, World!", "Hd! Wl"))  # Expected output: "ello, Wor"
+print(version_of_strip("Hello, World!", "Hd!"))  # Expected output: "ello, Worl"
+print("Hello, World!".strip("Hd!"))  # Expected output: "ello, Worl"
