@@ -39,6 +39,13 @@ Welcome to the learning repository for "Automate the Boring Stuff with Python" b
       - 🚀 Practice Projects
       - 🧑‍💻 Chapter Projects
    - 🧠 Notes (Mind Map)
+  
+7. Chapter 7: Pattern Matching with Regular Expressions
+
+   - 🖥️ Code
+      - 🚀 Practice Projects
+      - 🧑‍💻 Chapter Projects
+   - 🧠 Notes (Mind Map)
    
 
 ## Practice Projects 🚀
